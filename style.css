@@ -9,7 +9,7 @@
 
 body {
     font-size: 100%;
-    background-image: linear-gradient(to right, #BA55D3, #9932CC, #9400D3);
+   background-image: linear-gradient(to right, #BA55D3, #9932CC, #9400D3);
 }
 
 .cabecalho {
@@ -21,7 +21,7 @@ body {
 }
 
 .cabecalho-imagem{
-    height: 62px;
+    height: 44px;
     font-weight: 62px;
 }
 
@@ -71,7 +71,7 @@ body {
     color: #ecd6c4;
 }
 
-.conteudo-principal-escrito-botao {
+.button{
    background-color: rgba(236, 214, 196, 1);
    width: 180px;
    height: 60px;
@@ -84,12 +84,12 @@ body {
    color: #2F2325; 
 }
 /*Pois quando for passar o mause pelo botão ele vai mudar de cor*/
-.conteudo-principal-escrito-botao:hover {
+.button:hover {
    background-color: rgba(236, 214, 196, 0.53);
 }
 
 .conteudo-principal-imagem {
-    height:  310px;
+    height:  305px;
     font-weight: 300px;
     padding-top: 25px ;
 }
